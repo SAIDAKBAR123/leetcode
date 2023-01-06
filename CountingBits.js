@@ -6,3 +6,8 @@ var countBits = function(n) {
     }
     return numberList
 };
+
+console.log(countBits(20))
+
+
+
